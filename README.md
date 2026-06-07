@@ -1,5 +1,5 @@
 # CampusTwin 🏫
-Smart Campus Management Platform built with React + AI
+CampusTwin is a full-stack smart campus management web application designed to digitize and streamline university operations. Built with React and Node.js, it provides administrators, faculty, and students with a unified platform featuring a real-time analytics dashboard, AI-powered campus assistant (CampusBot), live building occupancy monitoring, energy and water consumption tracking, classroom booking, hostel management, transport scheduling, maintenance reporting, and security alert systems. 
 
 ## Features
 -  Real-time Dashboard
