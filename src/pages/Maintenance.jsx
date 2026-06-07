@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Sidebar from '../components/Sidebar'
+import Sidebar from '../Components/Sidebar'
 import '../styles/Pages.css'
 import CampusBot from '../Components/campusBot'
 function Maintenance() {
