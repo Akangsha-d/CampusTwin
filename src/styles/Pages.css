@@ -1,0 +1,25 @@
+.page-layout { display: flex; min-height: 100vh; background: #0a0e1a; }
+
+.page-main {
+  margin-left: 220px; flex: 1; padding: 2rem;
+}
+
+.page-header { margin-bottom: 2rem; }
+.page-header h1 { font-size: 1.8rem; font-weight: 800; }
+.page-header p { color: #64748b; margin-top: 0.3rem; }
+
+.page-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.2rem; }
+
+.page-card {
+  background: #0d1225; border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 14px; padding: 1.5rem;
+}
+
+.page-card h3 { font-size: 1rem; margin-bottom: 0.5rem; }
+.page-card p { color: #64748b; font-size: 0.85rem; line-height: 1.5; }
+
+.back-btn {
+  background: rgba(124,58,237,0.2); border: 1px solid rgba(124,58,237,0.4);
+  color: #a78bfa; border-radius: 8px; padding: 0.5rem 1rem;
+  font-size: 0.85rem; cursor: pointer; margin-bottom: 1.5rem;
+}
